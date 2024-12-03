@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escuela Manuel Ideas</title>
+</head>
+<body>
+    <h1>ESCUELA MANUEL IDEAS</h1> 
+<img src="fotos/aaa.jpg" width="300"
+100px; 
+<body> 
+  <img src="fotos/1aa6805b-3a24-4600-bd2f-5a8f69329db5.jpg" width="300"
+    100px;
+    <body>
+     <img src="fotos/5a2e0fa7-17ad-46b3-bb0f-20fe4f5235bd.jpg"width="300"
+     100px;
+     <body>
+      <img src="fotos/633c249a-a32e-4dee-a536-3f83e36b1837.jpg"width="300"
+      100px;
+     <body>
+    <img src="fotos/66ffa885-0294-4d10-9a55-ac34c286c8d4.jpg"width="300"
+    200px;
+     <body>
+        <img src="fotos/77ff880f-55bc-4b38-9475-d289b6a6a1ab.jpg"width="200"
+        200px;
+     <body>
+        <img src="fotos/80fe8b9f-34dc-4422-8ffa-6eb43767c811.jpg"width="200"
+        200px;
+     <body>
+        <img src="fotos/b5abae66-1811-46e9-98f0-4ffa1017993b.jpg"width="200"
+        100px;
+       <body>
+ <img src="fotos/4.jpg"width="200"
+        200px;
+         <body>
+            <img src="fotos/5a2e0fa7-17ad-46b3-bb0f-20fe4f5235bd.jpg"width="200"
+        200px;
+         <body>
+            <img src="fotos/6.jpg"width="300"
+            200px;
+             <body>
+
+        
+   
